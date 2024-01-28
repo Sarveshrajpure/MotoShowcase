@@ -4,7 +4,7 @@ import { Navbar, Footer } from "@/components";
 
 export const metadata: Metadata = {
   title: "MotoShowcase",
-  description: "Discover the best cars in hte world",
+  description: "Discover the best cars in the world",
 };
 
 export default function RootLayout({
