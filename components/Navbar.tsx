@@ -13,7 +13,7 @@ const Navbar = () => {
             alt="motoshowcase logo"
             width={180}
             height={20}
-            objectFit="object-contain"
+            className="object-contain"
           />
         </Link>
         <CustomButton
